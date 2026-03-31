@@ -1,4 +1,5 @@
-Data-Visualization-Lab
+📊 Data Visualization Lab
+
 
 Name: Suman Ghosh
 
